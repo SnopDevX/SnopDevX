@@ -4,13 +4,13 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://imgur.com/VuSI7Ik.png"/>
 
-<h2> C:\aboutme </h2>
+<h2> C:\SnopDex\aboutme </h2>
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
   
-<h2> C:\current skills </h2>
+<h2> CC:\SnopDex\current skills </h2>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
