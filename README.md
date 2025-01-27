@@ -4,13 +4,18 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://imgur.com/VuSI7Ik.png"/>
 
-<h2> C:\SnopDex\aboutme </h2>
+<h2> 🙋‍♂️ About me </h2>
   
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
+- ⭐ currently focusing on **C++**
+- 💀 working on **public repositories**
 - 👾 a **student** working his way around things
+
+<h2> 🚀 Goals </h2>
+
+- 📚 Building projects to strengthen my portfolio
+- 🎯 Aspiring to start an IT apprenticeship 2026
   
-<h2> C:\SnopDex\current skills </h2>
+<h2> 🧠 Current skills </h2>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "C++" />
