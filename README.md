@@ -10,7 +10,7 @@
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
   
-<h2> CC:\SnopDex\current skills </h2>
+<h2> C:\SnopDex\current skills </h2>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
